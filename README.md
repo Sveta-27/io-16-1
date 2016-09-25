@@ -6,5 +6,4 @@ My programm print "hello world"
 # instruction
 g++ hello\ world -o main
 for launch use :
-
-
+./main
