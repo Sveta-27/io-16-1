@@ -1,9 +1,13 @@
 # io-16-1
 
-# description
+## description
 My programm print "hello world"
 
-# instruction
+## instruction
+```
 g++ hello\ world -o main
+```
 for launch use :
+```
 ./main
+```
